@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "798763541559",
+    "firebase_url": "https://fireuserget-c66e3.firebaseio.com",
+    "project_id": "fireuserget-c66e3",
+    "storage_bucket": "fireuserget-c66e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798763541559:android:2bf20004c72f7d053dcbb2",
+        "android_client_info": {
+          "package_name": "com.example.firebasemltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798763541559-jhhqp4ahi34trq4rceanr91s0bm13h8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06MYCJkFAH2mDGCn5ZrbMc0W1it8_aCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798763541559-jhhqp4ahi34trq4rceanr91s0bm13h8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798763541559:android:3f7174e681d4a90e3dcbb2",
+        "android_client_info": {
+          "package_name": "com.example.firefileuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798763541559-jhhqp4ahi34trq4rceanr91s0bm13h8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06MYCJkFAH2mDGCn5ZrbMc0W1it8_aCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798763541559-jhhqp4ahi34trq4rceanr91s0bm13h8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798763541559:android:bd2fd302fd1404853dcbb2",
+        "android_client_info": {
+          "package_name": "com.example.fireuserget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798763541559-jhhqp4ahi34trq4rceanr91s0bm13h8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06MYCJkFAH2mDGCn5ZrbMc0W1it8_aCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798763541559-jhhqp4ahi34trq4rceanr91s0bm13h8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
